@@ -1,0 +1,17 @@
+{
+    "head": {
+        "title": "Romain Fouillaron ~ Conception d'applications et de sites web",
+        "description": "Conception de site web, d'application, référencment SEO, optmisation des performances"
+    },
+    "body": {
+        "header": {
+            "h1": "Romain Fouillaron_",
+            "subtitle1": "Conception d'applications et de sites web",
+            "subtitle2": "Référencement SEO - Optimisation des performances"
+        }
+    },
+    "App": [
+        "scripts/accueil.js",
+        "scripts/components/Test1.js"
+    ]
+}
